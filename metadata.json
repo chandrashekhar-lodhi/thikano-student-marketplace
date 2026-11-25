@@ -1,0 +1,10 @@
+{
+  "name": "THIKANO",
+  "description": "Apni jagah, aasani se. Student accommodation marketplace for rooms, PGs, hostels, and flats in Jabalpur.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
